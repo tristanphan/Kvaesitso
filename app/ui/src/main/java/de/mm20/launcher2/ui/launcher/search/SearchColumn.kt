@@ -53,6 +53,7 @@ import de.mm20.launcher2.ui.launcher.sheets.HiddenItemsSheet
 import de.mm20.launcher2.ui.launcher.sheets.LocalBottomSheetManager
 import de.mm20.launcher2.ui.locals.LocalGridSettings
 import de.mm20.launcher2.ui.theme.transparency.transparency
+import de.mm20.launcher2.ui.utils.getActualColumns
 
 @Composable
 fun SearchColumn(
@@ -63,7 +64,7 @@ fun SearchColumn(
     userScrollEnabled: Boolean = true,
 ) {
 
-    val columns = LocalGridSettings.current.columnCount
+    val columns = getActualColumns(LocalGridSettings.current.columnCount)
     val showList = LocalGridSettings.current.showList
     val context = LocalContext.current
 

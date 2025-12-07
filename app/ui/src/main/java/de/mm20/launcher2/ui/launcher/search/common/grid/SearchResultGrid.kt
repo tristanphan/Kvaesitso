@@ -17,6 +17,7 @@ import androidx.compose.ui.unit.dp
 import de.mm20.launcher2.search.SavableSearchable
 import de.mm20.launcher2.ui.layout.BottomReversed
 import de.mm20.launcher2.ui.locals.LocalGridSettings
+import de.mm20.launcher2.ui.utils.getActualColumns
 import kotlin.math.ceil
 
 @Composable
@@ -29,6 +30,8 @@ fun SearchResultGrid(
     highlightedItem: SavableSearchable? = null,
     transitionKey: Any? = items
 ) {
+    val actualColumns = getActualColumns(columns).coerceAtMost(items.size)
+
     AnimatedContent(
         items to transitionKey,
         modifier = modifier
@@ -42,10 +45,10 @@ fun SearchResultGrid(
         Column(
             verticalArrangement = if (reverse) Arrangement.BottomReversed else Arrangement.Top
         ) {
-            for (i in 0 until ceil(items.size / columns.toFloat()).toInt()) {
+            for (i in 0 until ceil(items.size / actualColumns.toFloat()).toInt()) {
                 Row {
-                    for (j in 0 until columns) {
-                        val item = items.getOrNull(i * columns + j)
+                    for (j in 0 until actualColumns) {
+                        val item = items.getOrNull(i * actualColumns + j)
                         if (item != null) {
                             key(item.key) {
                                 GridItem(
