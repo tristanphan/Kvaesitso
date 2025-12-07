@@ -31,6 +31,7 @@
     <string name="menu_app_info">アプリ情報</string>
     <string name="menu_back">戻る</string>
     <string name="menu_favorites_unpin">ピン解除</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="action_undo">元に戻す</string>
     <string name="menu_contacts_open_externally">連絡先アプリで開く</string>
     <string name="menu_calendar_open_externally">カレンダーアプリで開く</string>

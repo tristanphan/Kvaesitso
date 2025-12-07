@@ -59,6 +59,7 @@
     <string name="menu_uninstall">Odinstalovat</string>
     <string name="menu_favorites_pin">Připnout k oblíbeným</string>
     <string name="menu_favorites_unpin">Odepnout</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">Zpět</string>
     <string name="menu_app_info">Informace o aplikaci</string>
     <string name="menu_launch">Spustit</string>

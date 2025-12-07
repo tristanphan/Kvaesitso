@@ -5,6 +5,7 @@
     <string name="menu_share_apk_file">APK-fil</string>
     <string name="menu_favorites_pin">Fäst i favoriter</string>
     <string name="menu_favorites_unpin">Lossa</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">Tillbaka</string>
     <string name="menu_app_info">App-info</string>
     <string name="menu_launch">Öppna</string>

@@ -5,6 +5,7 @@
     <string name="menu_share_apk_file">Файл пакета</string>
     <string name="menu_favorites_pin">Закрепить в избранном</string>
     <string name="menu_favorites_unpin">Открепить</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">Назад</string>
     <string name="menu_launch">Запустить</string>
     <string name="menu_delete">Убрать</string>

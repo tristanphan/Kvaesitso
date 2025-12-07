@@ -4,6 +4,7 @@
     <string name="menu_uninstall">Απεγκατάσταση</string>
     <string name="menu_favorites_pin">Καρφίτσωμα στα αγαπημένα</string>
     <string name="menu_favorites_unpin">Ξεκαρφίτσωμα</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">Πίσω</string>
     <string name="menu_app_info">Πληροφορίες εφαρμογής</string>
     <string name="menu_launch">Εκκίνηση</string>

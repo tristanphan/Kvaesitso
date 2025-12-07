@@ -4,6 +4,7 @@
     <string name="menu_uninstall">Odinstaluj</string>
     <string name="menu_favorites_pin">Przypnij do ulubionych</string>
     <string name="menu_favorites_unpin">Odepnij</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_share_apk_file">Plik pakietu</string>
     <string name="menu_back">Wróć</string>
     <string name="menu_launch">Uruchom</string>

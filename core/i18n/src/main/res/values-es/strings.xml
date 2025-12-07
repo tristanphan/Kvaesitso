@@ -159,6 +159,7 @@
     <string name="menu_app_info">Información de la app</string>
     <string name="menu_favorites_pin">Anclar a favoritos</string>
     <string name="menu_favorites_unpin">Desanclar</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="file_meta_app_min_sdk">Versión mínima del SDK: %1$s</string>
     <string name="file_type_android">Archivo de paquete de Android</string>
     <string name="file_type_source_code">Archivo de código fuente</string>

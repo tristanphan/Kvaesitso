@@ -14,6 +14,7 @@
     <string name="menu_back">חזרה</string>
     <string name="menu_app_info">מידע על היישום</string>
     <string name="menu_favorites_unpin">הסרת הנעיצה</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_launch">הפעלה</string>
     <string name="menu_customize">התאמה אישית</string>
     <string name="menu_open_file">פתיחה</string>

@@ -390,6 +390,15 @@ fun AppItem(
                                 })
                         }
                         toolbarActions.add(favAction)
+                        if (isPinned) {
+                            toolbarActions.add(DefaultToolbarAction(
+                                label = stringResource(R.string.menu_favorites_uprank),
+                                icon = R.drawable.arrow_drop_up_24px,
+                                action = {
+                                    viewModel.uprank()
+                                }
+                            ))
+                        }
                     }
 
                     if (!app.isPrivate) {

@@ -5,6 +5,7 @@
     <string name="menu_share_apk_file">APK fitxategia</string>
     <string name="menu_favorites_pin">Gogokoetara ainguratu</string>
     <string name="menu_favorites_unpin">Aingura kendu</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">Atzera</string>
     <string name="menu_launch">Abiarazi</string>
     <string name="menu_customize">Pertsonalizatu</string>

@@ -22,6 +22,7 @@
     <string name="menu_uninstall">Kaldır</string>
     <string name="menu_favorites_pin">Favorilere sabitle</string>
     <string name="menu_favorites_unpin">Sabitlemeyi kaldır</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">Geri</string>
     <string name="menu_app_info">Uygulama bilgisi</string>
     <!-- Launch an app -->

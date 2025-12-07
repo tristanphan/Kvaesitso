@@ -22,6 +22,7 @@
     <string name="action_undo">Скасаваць</string>
     <string name="menu_delete">Выдаліць</string>
     <string name="menu_favorites_unpin">Адмацаваць</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_remove">Прыняць</string>
     <string name="menu_contacts_open_externally">Адкрыць у кантактах</string>
     <string name="menu_calendar_open_externally">Адкрыць у календары</string>

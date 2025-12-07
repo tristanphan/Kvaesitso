@@ -6,6 +6,7 @@
     <string name="menu_uninstall">আনইনষ্টল করুন</string>
     <string name="menu_favorites_pin">প্রিয় তালিকায় পিন করুন</string>
     <string name="menu_favorites_unpin">পিন থেকে সরান</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">পেছনে ফিরুন</string>
     <string name="menu_app_info">অ্যাপের তথ্য</string>
     <string name="menu_launch">চালু করুন</string>

@@ -58,6 +58,10 @@ class FavoritesService(
         )
     }
 
+    fun uprankItem(searchable: SavableSearchable) {
+        searchableRepository.touch(searchable)
+    }
+
     fun setVisibility(searchable: SavableSearchable, visibility: VisibilityLevel) {
         searchableRepository.upsert(
             searchable,
@@ -65,8 +69,9 @@ class FavoritesService(
         )
     }
 
-    fun reportLaunch(searchable: SavableSearchable) {
-        searchableRepository.touch(searchable)
+    fun reportLaunch(@Suppress("UNUSED_PARAMETER") searchable: SavableSearchable) {
+        // Do nothing; don't uprank on usage
+        // searchableRepository.touch(searchable)
     }
 
     fun updateFavorites(

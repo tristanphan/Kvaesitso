@@ -4,6 +4,7 @@
     <string name="menu_app_info">Info Aplicație</string>
     <string name="menu_launch">Lansează</string>
     <string name="menu_favorites_unpin">Înlătură</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="action_undo">Anulează</string>
     <string name="menu_delete">Șterge</string>
     <string name="menu_contacts_open_externally">Deschide în aplicația Contacte</string>

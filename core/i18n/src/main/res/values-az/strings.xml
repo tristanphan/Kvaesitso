@@ -7,6 +7,7 @@
     <string name="menu_share_apk_file">Paket faylı</string>
     <string name="menu_favorites_pin">Favoritlərə sancaqla</string>
     <string name="menu_favorites_unpin">Sancağı çıxart</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">Geri</string>
     <string name="menu_app_info">Tətbiq məlumatı</string>
     <string name="menu_launch">İşə sal</string>

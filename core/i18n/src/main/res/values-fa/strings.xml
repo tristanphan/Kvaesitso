@@ -10,6 +10,7 @@
     <string name="menu_uninstall">پاک کردن</string>
     <string name="menu_favorites_pin">سنجاق در موارد دلخواه</string>
     <string name="menu_favorites_unpin">برداشتن سنجاق</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">بازگشت</string>
     <string name="menu_launch">اجرا</string>
     <string name="menu_customize">شخصی‌سازی</string>

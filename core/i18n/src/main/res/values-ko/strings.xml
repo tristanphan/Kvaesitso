@@ -82,6 +82,7 @@
     <string name="menu_uninstall">설치 제거</string>
     <string name="menu_favorites_pin">즐겨찾기에 고정</string>
     <string name="menu_favorites_unpin">고정 해제</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="action_undo">실행 취소</string>
     <string name="menu_contacts_open_externally">연락처 앱으로 열기</string>
     <string name="menu_calendar_open_externally">캘린더 앱으로 열기</string>

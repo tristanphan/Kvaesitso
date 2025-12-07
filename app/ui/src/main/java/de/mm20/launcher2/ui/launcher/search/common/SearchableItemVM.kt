@@ -80,6 +80,10 @@ class SearchableItemVM : ListItemViewModel(), KoinComponent {
         searchable.value?.let { favoritesService.unpinItem(it) }
     }
 
+    fun uprank() {
+        searchable.value?.let { favoritesService.uprankItem(it) }
+    }
+
     val badge = searchable.flatMapLatest {
         if (it == null) emptyFlow() else badgeService.getBadge(it)
     }.stateIn(viewModelScope, SharingStarted.Lazily, null)

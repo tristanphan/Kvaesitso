@@ -5,6 +5,7 @@
     <string name="menu_uninstall">Nyahpasang</string>
     <string name="menu_favorites_pin">Sematkan pada kegemaran</string>
     <string name="menu_favorites_unpin">Nyahpin</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">Balik</string>
     <string name="menu_app_info">Maklumat Applikasi</string>
     <string name="menu_share_store_link">%1$s pautan</string>

@@ -3,6 +3,7 @@
     <string name="menu_share_store_link">%1$s nuoroda</string>
     <string name="menu_favorites_pin">Pridėti prie mėgstamų</string>
     <string name="menu_favorites_unpin">Pašalinti</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_app_info">Programos info</string>
     <string name="menu_customize">Tinkinti</string>
     <string name="menu_open_file">Atidaryti</string>

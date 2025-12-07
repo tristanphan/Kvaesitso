@@ -5,6 +5,7 @@
     <string name="menu_share_store_link">رابط %1$s</string>
     <string name="menu_uninstall">إلغاء التثبيت</string>
     <string name="menu_favorites_unpin">إزالة</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_favorites_pin">إضافة الى المفضلة</string>
     <string name="menu_back">رجوع</string>
     <string name="menu_launch">فتح</string>

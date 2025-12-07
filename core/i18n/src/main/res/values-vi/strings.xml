@@ -105,6 +105,7 @@
     <string name="menu_uninstall">Gỡ cài đặt</string>
     <string name="menu_favorites_pin">Ghim vào mục yêu thích</string>
     <string name="menu_favorites_unpin">Bỏ ghim</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">Quay lại</string>
     <string name="menu_app_info">Thông tin ứng dụng</string>
     <string name="menu_launch">Khởi chạy</string>

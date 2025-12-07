@@ -32,6 +32,7 @@
     <string name="missing_permission_accessibility_gesture_settings">這個動作需要開啟無障礙服務。</string>
     <string name="menu_favorites_pin">釘選到我的最愛</string>
     <string name="menu_favorites_unpin">取消釘選</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">返回</string>
     <string name="menu_app_info">應用程式資訊</string>
     <string name="menu_launch">啟動</string>

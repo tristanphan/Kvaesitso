@@ -7,6 +7,7 @@
     <string name="menu_uninstall">अनइंस्टॉल करें</string>
     <string name="menu_favorites_pin">पसंदीदा में पिन करें</string>
     <string name="menu_favorites_unpin">अनपिन</string>
+    <string name="menu_favorites_uprank">Uprank</string>
     <string name="menu_back">पीछे</string>
     <string name="menu_app_info">ऐप की जानकारी</string>
     <string name="menu_customize">अनुकूलित करें</string>
